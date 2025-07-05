@@ -1,7 +1,7 @@
 # Keebie
 
 # Description
-Custom CNC-milled unibody keyboard case with full-ANSI layout (number row + arrows), built-in multi-layer damping for quiet, tactile typing, and a detachable wrist rest—fully open-source design.
+Custom CNC-milled unibody keyboard case with full-ANSI layout (number row + arrows), built-in multi-layer damping for quiet, tactile typing. Fully open-source design.
 
 # CAD
 ![image](https://github.com/user-attachments/assets/60f4734d-5f79-457d-bac4-889569419f69)
